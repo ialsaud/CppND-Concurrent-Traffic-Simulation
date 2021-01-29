@@ -1,3 +1,0 @@
-/home/zhange/Projects/CppND/project4/CppND-Concurrent-Traffic-Simulation/build/CMakeFiles/rebuild_cache.dir
-/home/zhange/Projects/CppND/project4/CppND-Concurrent-Traffic-Simulation/build/CMakeFiles/traffic_simulation.dir
-/home/zhange/Projects/CppND/project4/CppND-Concurrent-Traffic-Simulation/build/CMakeFiles/edit_cache.dir
